@@ -1,17 +1,5 @@
-# what_to_wear
+# What to wear
 
-A new Flutter project.
+Can't decide on what to wear? Use this app to decide your outfit for the day. There is a total of 4000 combination of outfit with different colors. Simply click on the generate button to get your outfit.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# what_to_wear
+[![](http://img.youtube.com/vi/V3hT67SF3r4/0.jpg)](http://www.youtube.com/watch?v=V3hT67SF3r4 "")
